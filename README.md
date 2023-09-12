@@ -9,6 +9,6 @@
   <li>Now, just run; "npm run dev" </li>
 </ol>
 
-  <h4>Live Deployed Link: "https://professional-porfolio-website-wasibilyas.vercel.app/"</h4>
+  <h4>Live Deployed Link: "https://wasibilyas.vercel.app/"</h4>
 
 
